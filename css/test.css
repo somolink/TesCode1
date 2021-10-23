@@ -1,0 +1,31 @@
+body {
+
+    background-color: #FF5733;
+
+     }
+		
+         h1{
+     	font-size: 45px;
+     	color: #0AF463 ;
+     	}
+
+
+    h2{
+    	font-size: 15px;
+    	color: #900C3F;
+      }
+
+      .Med{
+      	font-size: 95;
+      	color: #DAF7A6;
+      }	
+
+      .Med.simo{
+
+      	color: #E57EA8;
+      }
+
+      span{
+      	color: #581845;
+
+      }
